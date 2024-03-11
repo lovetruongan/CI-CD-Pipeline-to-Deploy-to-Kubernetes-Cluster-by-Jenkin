@@ -1,5 +1,6 @@
 # AWS CI-CD-Pipeline-to-Deploy-to-Kubernetes-Cluster-by-Jenkin
 
+![](<Screenshot 2024-03-11 215928.png>)
 ## Part 1 : Create Server Jenkin
 - Go to AWS and create EC2 instance using Amazon Linux
 - ssh and install jenkin using scripts or command
